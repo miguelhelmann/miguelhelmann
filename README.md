@@ -1,4 +1,4 @@
-# hey, i'm miguel 👋
+# hey, i'm miguel
 
 web developer in progress | systems dev student
 
