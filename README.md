@@ -4,16 +4,6 @@
 
 <p data-importer="text" align="left">web developer in progress | systems dev student</p>
 
-<p data-importer="text" align="left"></p>
-
-###
-
-<br clear="both">
-
-<h2 data-importer="text" align="left"></h2>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
