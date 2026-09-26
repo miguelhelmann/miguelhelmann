@@ -4,12 +4,6 @@
 
 <p data-importer="text" align="left">web developer in progress | systems dev student</p>
 
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
 <p data-importer="text" align="left"></p>
 
 ###
